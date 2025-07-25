@@ -9,7 +9,11 @@ Physics Scientific-Calculator is a 🆓Free Open Source Programme made in C++ wh
 # How to download the Physics Scientific-Calculator
  To download it you can see a green🟢 button on the right side of your screen nearby the "Go to file" search bar and the "Add file↓" button, saying "<> Code ↓". 👉Click it👈. Then a new small box will appear with 2 tabs that you can choose from. The Local one which is the standard one and the Codespaces one.
  We will stay at the Local tab and download it from there. Near the down edge of that box you can click a button saying "Download ZIP" which also has a file with a zipper icon on its left. Click that too and your download will be started. When the download is done unzip it and you are ready to use it🔥🔥🔥!!!.
-Uploading HowToDownload.mp4…
+
+
+https://github.com/user-attachments/assets/15823b91-bca4-4815-bfbe-949e7953b721
+
+
 # How to use the Physics Scientific-Calculator
  To use it open the Physics Scientific-Calculator folder and there you can find a file called Physics Scientific-Calculator.exe. Run that🚀. When the application launches you will be able to see some numbers and text like this: "[1] Astrodynamics". Choose the Physics' concept that the equation you are having trouble with matches. After you do so a new "[Number] text" like will appear. Choose the equation. Input the variables that the app asks you and your problem is solved like that.
 # Before VS After
