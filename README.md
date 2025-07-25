@@ -17,5 +17,6 @@ Uploading HowToDownload.mp4…
 ![0-02-05-f623ad998c964a18261dad3b4cbcb655a5a39594b5390a9764b1ecc16fe16951_d94579fc9882cd1b](https://github.com/user-attachments/assets/7b3888ed-9686-42d3-8ba4-173a31ebcb82)
 ##### After
 <img width="640" height="187" alt="ΩισΩιωα Ε;θατιον Εχαμπλε" src="https://github.com/user-attachments/assets/dca382ba-8cfb-40f4-83e5-53c7a63af89a" />
+
 # Supported Platforms
  You can download the software on Windows Platforms.
