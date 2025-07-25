@@ -1,9 +1,9 @@
 # Physics-Scientific-Calculator
- Welcome to my calculator github page!
+ Welcome to my calculator!
 Here we will discuss analytically what is really exactly Physics Scientific-Calculator,how it works, how to download it and how to use it🤔.
 # What is Physics Scientific-Calculator
  First things first.
-Physics Scientific-Calculator is a 🆓Free Open Source Programme made in C++ which has dozens of Physics equations that can be solved in a few milliseconds. It contains a lot of 🔭Physics concepts which are: Kinematics, Gravity Dynamics, Linear Dynamics, Rotational Dynamics, Ballistics, Astrodynamics/OrbitalMechanics. Each one of these Physics concepts contains from 1 or more equations that you can choose to let the calculator do the job pretty fast. The equationd you can solve with the calculator are not limited on the range of difficulty as it can solve simple ones such as the Velocity one or harder and more advanced like The N-Body Problem.
+Physics Scientific-Calculator is a 🆓Free Open Source Programme made in C++ which has dozens of Physics equations that can be solved in a few milliseconds. It contains a lot of 🔭Physics concepts which are: Kinematics, Gravity Dynamics, Linear Dynamics, Rotational Dynamics, Ballistics, Astrodynamics/OrbitalMechanics. Each one of these Physics concepts contains from 1 or more equations that you can choose to let the calculator do the job pretty fast. The equations you can solve with the calculator are not limited on the level of difficulty as it can solve simple ones such as the Velocity one or harder and more advanced like The N-Body Problem.
 # How the Physics Scientific-Calculator works
  The calculator works by asking the user for input, then it takes user input, after that the input is stored in variables that then the variables are called to perform the calculation of the input and then it outputs the equation used, follows the equation again but with the input of the user and then it outputs the result.
 # How to download the Physics Scientific-Calculator
