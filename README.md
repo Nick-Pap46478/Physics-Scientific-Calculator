@@ -1,10 +1,23 @@
-# Physics-Scientific-Calculator
+# Physics Scientific-Calculator
  Welcome to my calculator!
 Here we will discuss analytically what is really exactly Physics Scientific-Calculator, how it works, how to download it and how to use it🤔.
 # What is Physics Scientific-Calculator
  First things first.
-Physics Scientific-Calculator is a 🆓Free Open Source Programme made in C++ which has dozens of Physics equations that can be solved in a few milliseconds. It contains a lot of 🔭Physics concepts which are: 
-Kinematics, Mechanics, Linear Dynamics, Rotational Dynamics, Ballistics, Astrodynamics/OrbitalMechanics. Each one of these Physics concepts contains from 1 or more equations that you can choose to let the calculator do the job pretty fast. The equations you can solve with the calculator are not limited on the level of difficulty as it can solve simple ones such as the Velocity one or harder and more advanced like The N-Body Problem.
+Physics Scientific-Calculator is a 🆓Free Open Source Programme made in C++ which has dozens of 🧪Physics equations that can be solved in a few milliseconds. It contains a lot of 🔭Physics concepts which are: 
+
+#### ⚡Kinematics
+
+#### ⚙️Mechanics
+
+#### 💪Linear Dynamics
+
+#### 🌀Rotational Dynamics
+
+#### 🎯Ballistics
+
+#### 🌌Astrodynamics/OrbitalMechanics
+
+Each one of these Physics concepts contains from 1 or more equations that you can choose to let the calculator do the job pretty fast. The equations you can solve with the calculator are not limited on the level of difficulty as it can solve simple ones such as the Velocity one or harder and more advanced like The N-Body Problem.
 # How the Physics Scientific-Calculator works
  The calculator works by asking the user for input, then it takes user input, after that the input is stored in variables that then the variables are called to perform the calculation of the input and then it outputs the equation used, follows the equation again but with the input of the user and then it outputs the result.
 # How to download the Physics Scientific-Calculator
@@ -24,4 +37,6 @@ https://github.com/user-attachments/assets/15823b91-bca4-4815-bfbe-949e7953b721
 <img width="640" height="187" alt="ΩισΩιωα Ε;θατιον Εχαμπλε" src="https://github.com/user-attachments/assets/dca382ba-8cfb-40f4-83e5-53c7a63af89a" />
 
 # Supported Platforms
- You can download the software on Windows Platforms.
+ You can download the software on Windows🪟 Platforms.
+# Support Me
+ You can support me by sharing📨, leaving a star⭐, turning on notifications🔔. I would really appreciate it. Thank you🫵.
